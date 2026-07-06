@@ -5,6 +5,7 @@ import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from astrbot.api.star import Context
 from astrbot.api import logger, AstrBotConfig
 from astrbot.api.event import MessageChain
 
@@ -15,7 +16,7 @@ class NotifyManager:
     读取日程文件，结合提前通知配置，在准确的时间点向所有已订阅会话推送消息。
     """
 
-    def __init__(self, context, config: AstrBotConfig, plugin_data_path: Path):
+    def __init__(self, context: Context, config: AstrBotConfig, plugin_data_path: Path):
         """
         :param context: AstrBot 上下文，用于发送消息
         :param config:   插件配置对象

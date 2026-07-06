@@ -1,13 +1,13 @@
 import asyncio, time
 from datetime import datetime, timedelta, timezone
-from astrbot.api.event import filter, AstrMessageEvent, MessageEventResult
+from astrbot.api.event import filter, AstrMessageEvent, MessageEventResult, MessageChain
 from astrbot.api.star import Context, Star, register
 from astrbot.api import logger, AstrBotConfig
 from pathlib import Path
 from astrbot.core.utils.astrbot_path import get_astrbot_data_path
 from .notify_list_manager import NotifyListManager
 from .anime_timetable_manager import AnimeTimetableManager
-from .notify_manager import NotifyManager
+from .notify_manager import NotifyManager 
 
 @register("anime_notify", "YourName", "一个简单的番剧放送开播提醒插件", "1.0.0")
 class AnimeNotifyPlugin(Star):
@@ -100,6 +100,12 @@ class AnimeNotifyPlugin(Star):
             # 每隔 3600 秒 (60分钟) 自动检查一次
             await asyncio.sleep(3600)
 
+    @filter.command("test1")
+    async def test(self, event: AstrMessageEvent):
+        umo = event.unified_msg_origin
+        message_chain = MessageChain().message("test!")
+        await self.context.send_message(event.unified_msg_origin, message_chain)
+
     @filter.command("anime_notify_on")
     async def anime_notify_on(self, event: AstrMessageEvent):
         """为当前会话开启番剧开播提醒"""
@@ -126,6 +132,9 @@ class AnimeNotifyPlugin(Star):
         # 清理缓存
         self.timetable_manager.clear_expired_cache()
 
+        # notify manager 更新会话列表
+        await self.notify_manager._load_notify_targets()
+
     @filter.command("anime_notify_off")
     async def anime_notify_off(self, event: AstrMessageEvent):
         """为当前会话关闭番剧开播提醒"""
@@ -137,6 +146,9 @@ class AnimeNotifyPlugin(Star):
 
         # 清理缓存
         self.timetable_manager.clear_expired_cache()
+
+        # notify manager 更新会话列表
+        await self.notify_manager._load_notify_targets()
 
 
     async def terminate(self):
