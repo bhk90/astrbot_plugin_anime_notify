@@ -9,6 +9,7 @@
   },
   "notify_template": {
     "description": "提醒模板",
-    "type": "string"
+    "type": "text",
+    "default": "📣番剧开播提醒：\n《{title}》#{episodeDisplay}\n在{platform}开播了！\n开播时间：{eventAt}\nbgmId：{bgmId}"
   }
 }

@@ -100,13 +100,6 @@ class AnimeNotifyPlugin(Star):
             # 每隔 3600 秒 (60分钟) 自动检查一次
             await asyncio.sleep(3600)
 
-    @filter.command("test1")
-    async def test(self, event: AstrMessageEvent):
-        umo = event.unified_msg_origin
-        message_chain = MessageChain().message("test!")
-        await self.context.send_message(event.unified_msg_origin, message_chain)
-        logger.info("已向 {umo} 发送提醒")
-
     @filter.command("anime_notify_on")
     async def anime_notify_on(self, event: AstrMessageEvent):
         """为当前会话开启番剧开播提醒"""
