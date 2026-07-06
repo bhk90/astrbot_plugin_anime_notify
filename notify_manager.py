@@ -121,7 +121,7 @@ class NotifyManager:
         for target in self._notify_targets:
             try:
                 await self.context.send_message(target, chain)
-                logger.info(f"NotifyManager: 已向 {target} 发送提醒《{item.get('title')}》")
+                logger.info(f"NotifyManager: 已向 {target} 发送提醒《{text}》")
             except Exception as e:
                 logger.error(f"NotifyManager: 向 {target} 发送失败: {e}")
 

@@ -105,6 +105,7 @@ class AnimeNotifyPlugin(Star):
         umo = event.unified_msg_origin
         message_chain = MessageChain().message("test!")
         await self.context.send_message(event.unified_msg_origin, message_chain)
+        logger.info("已向 {umo} 发送提醒")
 
     @filter.command("anime_notify_on")
     async def anime_notify_on(self, event: AstrMessageEvent):
