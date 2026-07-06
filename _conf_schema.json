@@ -1,0 +1,14 @@
+{
+  "bgm_api_token": {
+    "description": "填入从 bgm.wiki 建立的 API Token",
+    "type": "string"
+  },
+  "notify_advance_minutes": {
+    "description": "提前几分钟提醒",
+    "type": "int"
+  },
+  "notify_template": {
+    "description": "提醒模板",
+    "type": "string"
+  }
+}

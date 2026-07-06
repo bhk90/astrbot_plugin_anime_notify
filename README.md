@@ -1,4 +1,4 @@
-# astrbot-plugin-helloworld
+# astrbot-plugin-anime-notify
 
 AstrBot 插件模板 / A template plugin for AstrBot plugin feature
 

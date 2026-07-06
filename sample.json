@@ -1,0 +1,837 @@
+{
+  "from": 1783235580000,
+  "to": 1783321980000,
+  "events": [
+    {
+      "eventTsMs": 1783236600000,
+      "eventAt": "2026-07-05T07:30:00.000Z",
+      "workId": 1562,
+      "episodeId": 75624,
+      "episodeSort": 1,
+      "airingId": 514262,
+      "titles": {
+        "main": "Let's Go 怪奇组",
+        "japan": "レッツゴー怪奇組"
+      },
+      "coverUrl": "/assets/covers/bangumi/f0/4a/work-1562-popup-cover-f04a7b17901fe6b276d5.jpg",
+      "bgmId": 595106,
+      "xId": "kaikigumi",
+      "japanWebsite": "https://kaikigumi.com/",
+      "isContinue": false,
+      "episodeDisplay": "1",
+      "platform": {
+        "key": "",
+        "text": "ジャパン・ニュース・ネットワーク",
+        "iconUrl": "",
+        "url": "",
+        "wikiTerm": "ジャパン・ニュース・ネットワーク",
+        "wikiSlug": "",
+        "wikiState": "unknown",
+        "wikiLabel": "ジャパン・ニュース・ネットワーク"
+      },
+      "areasPrimary": [
+        {
+          "code": "JP",
+          "label": "日本"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": []
+    },
+    {
+      "eventTsMs": 1783238400000,
+      "eventAt": "2026-07-05T08:00:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518077,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "",
+        "text": "ジャパン・ニュース・ネットワーク",
+        "iconUrl": "",
+        "url": "",
+        "wikiTerm": "ジャパン・ニュース・ネットワーク",
+        "wikiSlug": "",
+        "wikiState": "unknown",
+        "wikiLabel": "ジャパン・ニュース・ネットワーク"
+      },
+      "areasPrimary": [
+        {
+          "code": "JP",
+          "label": "日本"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": []
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1564,
+      "episodeId": 75612,
+      "episodeSort": 1,
+      "airingId": 514238,
+      "titles": {
+        "main": "铁锅料理王",
+        "japan": "鉄鍋のジャン！"
+      },
+      "coverUrl": "/assets/covers/bangumi/d2/b0/work-1564-popup-cover-d2b0c4a9184d1bffe5ef.jpg",
+      "bgmId": 615835,
+      "xId": "tetsujan1995",
+      "japanWebsite": "https://tetsujan.com/",
+      "isContinue": false,
+      "episodeDisplay": "1",
+      "platform": {
+        "key": "",
+        "text": "TXNネットワーク",
+        "iconUrl": "",
+        "url": "",
+        "wikiTerm": "TXNネットワーク",
+        "wikiSlug": "",
+        "wikiState": "unknown",
+        "wikiLabel": "TXNネットワーク"
+      },
+      "areasPrimary": [
+        {
+          "code": "JP",
+          "label": "日本"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": []
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518078,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "",
+        "text": "ABEMA",
+        "iconUrl": "",
+        "url": "",
+        "wikiTerm": "ABEMA",
+        "wikiSlug": "",
+        "wikiState": "unknown",
+        "wikiLabel": "ABEMA"
+      },
+      "areasPrimary": [
+        {
+          "code": "JP",
+          "label": "日本"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": []
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518079,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "",
+        "text": "Prime Video",
+        "iconUrl": "",
+        "url": "",
+        "wikiTerm": "Prime Video",
+        "wikiSlug": "",
+        "wikiState": "unknown",
+        "wikiLabel": "Prime Video"
+      },
+      "areasPrimary": [
+        {
+          "code": "JP",
+          "label": "日本"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": []
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518080,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "animad",
+        "text": "巴哈姆特动画疯",
+        "iconUrl": "/assets/platform-icons/e3/16/animad-e3168fca458968ce66ca.png",
+        "url": "https://acg.gamer.com.tw/acgDetail.php?s=150685",
+        "wikiTerm": "巴哈姆特动画疯",
+        "wikiSlug": "巴哈姆特動畫瘋",
+        "wikiState": "ready",
+        "wikiLabel": "巴哈姆特动画疯"
+      },
+      "areasPrimary": [
+        {
+          "code": "TW",
+          "label": "台湾地区"
+        },
+        {
+          "code": "HK",
+          "label": "香港"
+        },
+        {
+          "code": "MO",
+          "label": "澳门"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "羚邦",
+          "name": "羚邦集团",
+          "iconUrl": "/assets/icons/licensors/f8/60/f860a0e8683e-f860a0e8683e424dbabf.png",
+          "wikiTerm": "羚邦集團"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518081,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "anione_zh",
+        "text": "Ani-One中文",
+        "iconUrl": "/assets/platform-icons/88/47/anione_zh-8847b619fc15d8a1fa6b.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLIOEBDhF60yI",
+        "wikiTerm": "羚邦集团",
+        "wikiSlug": "羚邦集團",
+        "wikiState": "ready",
+        "wikiLabel": "羚邦集团"
+      },
+      "areasPrimary": [
+        {
+          "code": "HK",
+          "label": "香港"
+        },
+        {
+          "code": "MO",
+          "label": "澳门"
+        },
+        {
+          "code": "TW",
+          "label": "台湾地区"
+        },
+        {
+          "code": "SG",
+          "label": "新加坡"
+        },
+        {
+          "code": "MY",
+          "label": "马来西亚"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "羚邦",
+          "name": "羚邦集团",
+          "iconUrl": "/assets/icons/licensors/f8/60/f860a0e8683e-f860a0e8683e424dbabf.png",
+          "wikiTerm": "羚邦集團"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518082,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "anione_asia",
+        "text": "Ani-One Asia",
+        "iconUrl": "/assets/platform-icons/09/53/anione_asia-0953f235797cebe9ea02.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLHr3g0ivIWN4",
+        "wikiTerm": "羚邦集团",
+        "wikiSlug": "羚邦集團",
+        "wikiState": "ready",
+        "wikiLabel": "羚邦集团"
+      },
+      "areasPrimary": [
+        {
+          "code": "XA",
+          "label": "亚洲"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "羚邦",
+          "name": "羚邦集团",
+          "iconUrl": "/assets/icons/licensors/f8/60/f860a0e8683e-f860a0e8683e424dbabf.png",
+          "wikiTerm": "羚邦集團"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518083,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "anione_id",
+        "text": "Ani-One Indonesia",
+        "iconUrl": "/assets/platform-icons/96/ee/anione_id-96ee4998737eceb0bf04.jpg",
+        "url": "",
+        "wikiTerm": "羚邦集团",
+        "wikiSlug": "羚邦集團",
+        "wikiState": "ready",
+        "wikiLabel": "羚邦集团"
+      },
+      "areasPrimary": [
+        {
+          "code": "ID",
+          "label": "印度尼西亚"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "羚邦",
+          "name": "羚邦集团",
+          "iconUrl": "/assets/icons/licensors/f8/60/f860a0e8683e-f860a0e8683e424dbabf.png",
+          "wikiTerm": "羚邦集團"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518084,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "anione_ph",
+        "text": "Ani-One Philippines",
+        "iconUrl": "/assets/platform-icons/bc/0d/anione_ph-bc0dfc676642fccdc9c4.jpg",
+        "url": "",
+        "wikiTerm": "羚邦集团",
+        "wikiSlug": "羚邦集團",
+        "wikiState": "ready",
+        "wikiLabel": "羚邦集团"
+      },
+      "areasPrimary": [
+        {
+          "code": "PH",
+          "label": "菲律宾"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "羚邦",
+          "name": "羚邦集团",
+          "iconUrl": "/assets/icons/licensors/f8/60/f860a0e8683e-f860a0e8683e424dbabf.png",
+          "wikiTerm": "羚邦集團"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518085,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "anione_th",
+        "text": "Ani-One Thailand",
+        "iconUrl": "/assets/platform-icons/2d/07/anione_th-2d0734633ea9a5295d3d.jpg",
+        "url": "",
+        "wikiTerm": "羚邦集团",
+        "wikiSlug": "羚邦集團",
+        "wikiState": "ready",
+        "wikiLabel": "羚邦集团"
+      },
+      "areasPrimary": [
+        {
+          "code": "TH",
+          "label": "泰国"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "羚邦",
+          "name": "羚邦集团",
+          "iconUrl": "/assets/icons/licensors/f8/60/f860a0e8683e-f860a0e8683e424dbabf.png",
+          "wikiTerm": "羚邦集團"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518086,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "anione_vn",
+        "text": "Ani-One Vietnam",
+        "iconUrl": "/assets/platform-icons/7b/98/anione_vn-7b98ffeef263c8f89abe.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLKz6XxJnPD0E",
+        "wikiTerm": "羚邦集团",
+        "wikiSlug": "羚邦集團",
+        "wikiState": "ready",
+        "wikiLabel": "羚邦集团"
+      },
+      "areasPrimary": [
+        {
+          "code": "VN",
+          "label": "越南"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "羚邦",
+          "name": "羚邦集团",
+          "iconUrl": "/assets/icons/licensors/f8/60/f860a0e8683e-f860a0e8683e424dbabf.png",
+          "wikiTerm": "羚邦集團"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518087,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "anione_in",
+        "text": "Ani-One India",
+        "iconUrl": "/assets/platform-icons/58/4c/anione_in-584c1ae2ecf3b83f1ea6.jpg",
+        "url": "",
+        "wikiTerm": "羚邦集团",
+        "wikiSlug": "羚邦集團",
+        "wikiState": "ready",
+        "wikiLabel": "羚邦集团"
+      },
+      "areasPrimary": [
+        {
+          "code": "IN",
+          "label": "印度"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "羚邦",
+          "name": "羚邦集团",
+          "iconUrl": "/assets/icons/licensors/f8/60/f860a0e8683e-f860a0e8683e424dbabf.png",
+          "wikiTerm": "羚邦集團"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783240200000,
+      "eventAt": "2026-07-05T08:30:00.000Z",
+      "workId": 1563,
+      "episodeId": 75959,
+      "episodeSort": 1,
+      "airingId": 518088,
+      "titles": {
+        "main": "相反的你和我 第二季",
+        "japan": "正反対な君と僕 第2期"
+      },
+      "coverUrl": "/assets/covers/bangumi/93/a5/work-1563-popup-cover-93a5f3ed0b8b30acb984.jpg",
+      "bgmId": 638497,
+      "xId": "seihantai_x",
+      "japanWebsite": "https://sh-anime.shochiku.co.jp/seihantai_anime/",
+      "isContinue": false,
+      "episodeDisplay": "13",
+      "platform": {
+        "key": "bilibilitv",
+        "text": "bilibili国际站",
+        "iconUrl": "/assets/platform-icons/25/03/bilibilitv-25037078e619a44bc9c6.webp",
+        "url": "https://www.bilibili.tv/media/2288405",
+        "wikiTerm": "哔哩哔哩",
+        "wikiSlug": "哔哩哔哩",
+        "wikiState": "ready",
+        "wikiLabel": "哔哩哔哩"
+      },
+      "areasPrimary": [
+        {
+          "code": "ID",
+          "label": "印度尼西亚"
+        },
+        {
+          "code": "TH",
+          "label": "泰国"
+        },
+        {
+          "code": "PH",
+          "label": "菲律宾"
+        },
+        {
+          "code": "MY",
+          "label": "马来西亚"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": []
+    },
+    {
+      "eventTsMs": 1783256400000,
+      "eventAt": "2026-07-05T13:00:00.000Z",
+      "workId": 1565,
+      "episodeId": 75971,
+      "episodeSort": 1,
+      "airingId": 518233,
+      "titles": {
+        "main": "世界最强后卫 ～迷宫国的新人探索者～",
+        "japan": "世界最強の後衛 ～迷宮国の新人探索者～"
+      },
+      "coverUrl": "/assets/covers/bangumi/25/c5/work-1565-popup-cover-25c560c47a63aebb593c.jpg",
+      "bgmId": 583862,
+      "xId": "Rearguard_PR",
+      "japanWebsite": "https://strongestrearguard-anime.com/",
+      "isContinue": false,
+      "episodeDisplay": "1",
+      "platform": {
+        "key": "",
+        "text": "TOKYO MX",
+        "iconUrl": "",
+        "url": "",
+        "wikiTerm": "TOKYO MX",
+        "wikiSlug": "",
+        "wikiState": "unknown",
+        "wikiLabel": "TOKYO MX"
+      },
+      "areasPrimary": [
+        {
+          "code": "JP",
+          "label": "日本"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": []
+    },
+    {
+      "eventTsMs": 1783256400000,
+      "eventAt": "2026-07-05T13:00:00.000Z",
+      "workId": 1565,
+      "episodeId": 75971,
+      "episodeSort": 1,
+      "airingId": 518234,
+      "titles": {
+        "main": "世界最强后卫 ～迷宫国的新人探索者～",
+        "japan": "世界最強の後衛 ～迷宮国の新人探索者～"
+      },
+      "coverUrl": "/assets/covers/bangumi/25/c5/work-1565-popup-cover-25c560c47a63aebb593c.jpg",
+      "bgmId": 583862,
+      "xId": "Rearguard_PR",
+      "japanWebsite": "https://strongestrearguard-anime.com/",
+      "isContinue": false,
+      "episodeDisplay": "1",
+      "platform": {
+        "key": "animad",
+        "text": "巴哈姆特动画疯",
+        "iconUrl": "/assets/platform-icons/e3/16/animad-e3168fca458968ce66ca.png",
+        "url": "https://acg.gamer.com.tw/acgDetail.php?s=147147",
+        "wikiTerm": "巴哈姆特动画疯",
+        "wikiSlug": "巴哈姆特動畫瘋",
+        "wikiState": "ready",
+        "wikiLabel": "巴哈姆特动画疯"
+      },
+      "areasPrimary": [
+        {
+          "code": "TW",
+          "label": "台湾地区"
+        },
+        {
+          "code": "HK",
+          "label": "香港"
+        },
+        {
+          "code": "MO",
+          "label": "澳门"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "木棉花",
+          "name": "木棉花国际",
+          "iconUrl": "/assets/icons/licensors/d7/4d/d74d7c6bb541-d74d7c6bb54142b88283.png",
+          "wikiTerm": "木棉花"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783256400000,
+      "eventAt": "2026-07-05T13:00:00.000Z",
+      "workId": 1565,
+      "episodeId": 75971,
+      "episodeSort": 1,
+      "airingId": 518235,
+      "titles": {
+        "main": "世界最强后卫 ～迷宫国的新人探索者～",
+        "japan": "世界最強の後衛 ～迷宮国の新人探索者～"
+      },
+      "coverUrl": "/assets/covers/bangumi/25/c5/work-1565-popup-cover-25c560c47a63aebb593c.jpg",
+      "bgmId": 583862,
+      "xId": "Rearguard_PR",
+      "japanWebsite": "https://strongestrearguard-anime.com/",
+      "isContinue": false,
+      "episodeDisplay": "1",
+      "platform": {
+        "key": "muse_tw",
+        "text": "Muse木棉花-TW",
+        "iconUrl": "/assets/platform-icons/99/6b/muse_tw-996bb8b88a665023f04c.jpg",
+        "url": "",
+        "wikiTerm": "木棉花国际",
+        "wikiSlug": "木棉花國際",
+        "wikiState": "ready",
+        "wikiLabel": "木棉花国际"
+      },
+      "areasPrimary": [
+        {
+          "code": "TW",
+          "label": "台湾地区"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "木棉花",
+          "name": "木棉花国际",
+          "iconUrl": "/assets/icons/licensors/d7/4d/d74d7c6bb541-d74d7c6bb54142b88283.png",
+          "wikiTerm": "木棉花"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783256400000,
+      "eventAt": "2026-07-05T13:00:00.000Z",
+      "workId": 1565,
+      "episodeId": 75971,
+      "episodeSort": 1,
+      "airingId": 518236,
+      "titles": {
+        "main": "世界最强后卫 ～迷宫国的新人探索者～",
+        "japan": "世界最強の後衛 ～迷宮国の新人探索者～"
+      },
+      "coverUrl": "/assets/covers/bangumi/25/c5/work-1565-popup-cover-25c560c47a63aebb593c.jpg",
+      "bgmId": 583862,
+      "xId": "Rearguard_PR",
+      "japanWebsite": "https://strongestrearguard-anime.com/",
+      "isContinue": false,
+      "episodeDisplay": "1",
+      "platform": {
+        "key": "muse_hk",
+        "text": "Muse木棉花-HK",
+        "iconUrl": "/assets/platform-icons/2b/e6/muse_hk-2be61e17f3876b5daf62.jpg",
+        "url": "",
+        "wikiTerm": "木棉花国际",
+        "wikiSlug": "木棉花國際",
+        "wikiState": "ready",
+        "wikiLabel": "木棉花国际"
+      },
+      "areasPrimary": [
+        {
+          "code": "HK",
+          "label": "香港"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "木棉花",
+          "name": "木棉花国际",
+          "iconUrl": "/assets/icons/licensors/d7/4d/d74d7c6bb541-d74d7c6bb54142b88283.png",
+          "wikiTerm": "木棉花"
+        }
+      ]
+    },
+    {
+      "eventTsMs": 1783256400000,
+      "eventAt": "2026-07-05T13:00:00.000Z",
+      "workId": 1565,
+      "episodeId": 75971,
+      "episodeSort": 1,
+      "airingId": 518237,
+      "titles": {
+        "main": "世界最强后卫 ～迷宫国的新人探索者～",
+        "japan": "世界最強の後衛 ～迷宮国の新人探索者～"
+      },
+      "coverUrl": "/assets/covers/bangumi/25/c5/work-1565-popup-cover-25c560c47a63aebb593c.jpg",
+      "bgmId": 583862,
+      "xId": "Rearguard_PR",
+      "japanWebsite": "https://strongestrearguard-anime.com/",
+      "isContinue": false,
+      "episodeDisplay": "1",
+      "platform": {
+        "key": "muse_asia",
+        "text": "Muse Asia",
+        "iconUrl": "/assets/platform-icons/6c/f8/muse_asia-6cf86f67f34cf665bb2a.jpg",
+        "url": "",
+        "wikiTerm": "木棉花国际",
+        "wikiSlug": "木棉花國際",
+        "wikiState": "ready",
+        "wikiLabel": "木棉花国际"
+      },
+      "areasPrimary": [
+        {
+          "code": "XA",
+          "label": "亚洲"
+        }
+      ],
+      "areasComplete": [],
+      "commentText": "",
+      "licensors": [
+        {
+          "licensorName": "木棉花",
+          "name": "木棉花国际",
+          "iconUrl": "/assets/icons/licensors/d7/4d/d74d7c6bb541-d74d7c6bb54142b88283.png",
+          "wikiTerm": "木棉花"
+        }
+      ]
+    }
+  ]
+}
