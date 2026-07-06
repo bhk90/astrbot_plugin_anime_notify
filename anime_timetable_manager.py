@@ -134,7 +134,7 @@ class AnimeTimetableManager:
         cleaned_events = [
             {
                 "eventTsMs": item.get("eventTsMs"),
-                "eventAt": datetime.fromtimestamp(item.get("eventTsMs") / 1000, tz=beijing_tz).strftime("%m/%d %H:%M:%S") if item.get("eventTsMs") else "",
+                "eventAt": datetime.fromtimestamp(item.get("eventTsMs") / 1000, tz=self.__beijing_tz).strftime("%m/%d %H:%M:%S") if item.get("eventTsMs") else "",
                 "bgmId": item.get("bgmId"),
                 "episodeDisplay": item.get("episodeDisplay"),
                 "title": item.get("titles", {}).get("main", ""),
