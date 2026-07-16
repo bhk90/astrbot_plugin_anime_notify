@@ -1,15 +1,18 @@
 {
   "bgm_api_token": {
     "description": "填入从 bgm.wiki 建立的 API Token",
-    "type": "string"
+    "type": "string",
+    "hint": "必需的配置项。获取方式：\n1. 访问 https://bgm.wiki 登录/注册账户\n2. 进入设置页面生成 API Token\n3. 将 Token 复制到此处\n\n没有此 Token，插件无法获取番剧数据。"
   },
   "notify_advance_minutes": {
     "description": "提前几分钟提醒",
-    "type": "int"
+    "type": "int",
+    "hint": "在番剧实际开播前提前多少分钟发送提醒消息。\n\n例如设置为 5 则将提前 5 分钟发送提醒\n默认值为 0。"
   },
   "notify_template": {
-    "description": "提醒模板",
+    "description": "提醒消息模板",
     "type": "text",
-    "default": "📣番剧开播提醒：\n《{title}》#{episodeDisplay}\n在{platform}开播了！\n开播时间：{eventAt}\nbgmId：{bgmId}"
+    "default": "📣番剧开播提醒：\n《{title}》#{episodeDisplay}\n在{platform}开播了！\n开播时间：{eventAt}\nbgmId：{bgmId}",
+    "hint": "自定义番剧开播时的提醒消息格式。\n\n可用的模板变量：\n• {title} - 番剧标题\n• {japan} - 番剧日文名称\n• {episodeDisplay} - 集数（如：1、2、OVA 等）\n• {platform} - 放送平台（如：bilibili、NHK 等）\n• {eventAt} - 开播时间（ISO 8601 格式）\n• {bgmId} - bgm.wiki 条目 ID"
   }
 }
